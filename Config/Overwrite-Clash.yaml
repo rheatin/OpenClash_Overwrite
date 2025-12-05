@@ -615,7 +615,7 @@ proxy-groups:
     type: select
     proxies:
     - "🎯 全球直连"
-    - "🐟 遵循规则"
+    - "🪡 遵循规则"
 
   - name: "🇭🇰 香港节点"
     type: url-test
